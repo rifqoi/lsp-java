@@ -1,0 +1,4 @@
+Uri: jdt://contents/json-20230227.jar/org.json/JSONArray.class?%3DTugas2_d9bc2691%2F%5C%2Fhome%5C%2Frifqoi%5C%2FProjects%5C%2FLSP%5C%2FPertemuan2%5C%2FTugas2%5C%2Flib%5C%2Fjson-20230227.jar%3Corg.json%28JSONArray.class
+
+Error message: Provider "jdt" not installed
+Error: java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed

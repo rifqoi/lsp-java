@@ -1,0 +1,4 @@
+Uri: jdt://contents/java.base/java.io/PrintStream.class?%3DTugas2_d9bc2691%2F%5C%2Fusr%5C%2Flib%5C%2Fjvm%5C%2Fjava-11-openjdk-11.0.17.0.8-2.fc35.x86_64%5C%2Flib%5C%2Fjrt-fs.jar%60java.base%3D%2Fjavadoc_location%3D%2Fhttps%3A%5C%2F%5C%2Fdocs.oracle.com%5C%2Fen%5C%2Fjava%5C%2Fjavase%5C%2F11%5C%2Fdocs%5C%2Fapi%5C%2F%3D%2F%3Cjava.io%28PrintStream.class
+
+Error message: Provider "jdt" not installed
+Error: java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
